@@ -19,5 +19,3 @@ for ip in ips_para_analisar:
 
 # Indica que a verificação foi concluída
 print("--- Verificação concluída ---")
-
-adiciona desafio 2 - if/else
